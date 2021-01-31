@@ -5,15 +5,33 @@
     <link rel="stylesheet" href="style.css"/>
     <ln href="style.css"/>
     <script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheett" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Weather</title>
 </head>
 <body>
-    <div>
-        <input id="input">
-        <div id = "weatherout"> 
-        </div>
+    <div id="border">
+        <h1>Geo Search~</h1>
+        <div id="divbox">
+           <div class="w3-panel w3-card"><p>Enter a location:</p>
+                <input id="input">
+                <input id="enterbtn" type="button" value="search" onclick ="getweather()">
+                <p id="savee"></p>
+            </div>
+            <div id="outp">
 
+            </div>
+        </div>
+        <div id="todayout"></div>
+            
+        <div>
+             <div  id = "weatherout" >
+                 <h2 id ="h2out"> </h2>
+                 <div id="out"> </div>
+             </div>  
+        </div>
+       
     </div>
     <script src="script.js"></script>
 </body>
