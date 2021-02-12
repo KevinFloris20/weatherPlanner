@@ -6,15 +6,15 @@ This is a weather planner web app for those who need to plan their trips and che
 
 ## Screenshots:
 
-<img src="images/Screenshot weather 1.png" width="80%" height="75%">
+<img src="images/Screenshot weather 1.jpg" width="80%" height="75%">
 * User is presented to a search bar
-<img src="images/Screenshot weather 2.png" width="80%" height="75%">
+<img src="images/Screenshot weather 2.jpg" width="80%" height="75%">
 * After city is chosen the day forcast is presented
-<img src="images/Screenshot weather 3.png" width="80%" height="75%">
+<img src="images/Screenshot weather 3.jpg" width="80%" height="75%">
 * After clicking the "go to 5 day forcast" the forcast is added below
-<img src="images/Screenshot weather 4.png" width="80%" height="75%">
+<img src="images/Screenshot weather 4.jpg" width="80%" height="75%">
 * when a different city is searched the previously searched cities are saved
-<img src="images/Screenshot weather 5.png" width="80%" height="75%">
+<img src="images/Screenshot weather 5.jpg" width="80%" height="75%">
 * when clicked on the saved city, the clicked city is added to the textbox
 
 ## Credit:
